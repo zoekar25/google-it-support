@@ -51,3 +51,48 @@ Which of the following are authentication types supported by the LDAP Bind opera
 * **SASL**
 
 > Bind operations support three different mechanisms for authentication: (1) Anonymous, which doesn't actually authenticate at all, and allows anyone to query the server; (2) Simple, which involves sending the password in plaintext; and (3) SASL, or Simple Authentication and Security Layer, which involves a secure challenge-response authentication mechanism.
+
+### Question 5
+
+Which of these are examples of centralized management? Check all that apply
+
+* **Role-based access control
+* **Centralized configuration management
+* Copying configuration to various systems
+* Local authentication
+
+### Question 6
+
+Which of these are components of an LDAP entry? Check all that apply.
+
+* Uncommon name
+* **Distinguished name
+* **Common name
+* Kerberos
+
+### Question 7
+
+What does the LDAP Bind operation do exactly?
+
+* **Authenticates a client to the directory server
+* Looks up information in a directory server
+* Modifies entries in a directory server
+* Changes the password for a user account on the directory server
+
+### Question 8
+
+Which of the following are authentication types supported by the LDAP Bind operation? Check all that apply.
+
+* **SASL
+* **Simple
+* Complex
+* Anonymous
+
+### Question 9
+
+Which of the following are services provided for the Directory Services?
+
+* **Centralized Authentication
+* Locan Authentication
+* **Accounting 
+* **Authorization
