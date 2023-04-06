@@ -121,3 +121,57 @@ What are some of the purposes of a post-mortem? Check all that apply.
 * **To understand the cause of mistakes and how to prevent them**
 * To shame and punish mistakes
 * **To learn from and adapt processes for higher efficiency**
+
+### Question 11
+
+When designing a data backup and recovery plan, what is the first thing to figure out?
+
+* Future growth in data storage needs
+* Encryption and bandwidth requirements
+* How much total data you currently have
+* **What data you need to backup
+
+### Question 12
+
+A data backup strategy needs to prioritize important data and only back up what is necessary for operations. Assuming storage limitations, which of these is LEAST important to back up?
+
+* Emails
+* Databases
+* **User downloads
+*Financial spreadsheets
+
+### Question 13
+
+Common concerns with backups are disk failure, lack of redundancy, and increasing disk capacity. Which backup method addresses these concerns?
+
+* Differential backups
+* Complete backup
+* **RAID array
+* Incremental backup
+
+### Question 14
+
+Which of the following issues often make reliable backups for client devices more challenging than for infrastructure devices? Select all that apply.
+
+* **There are likely to be more client devices to backup compared to infrastructure devices.
+* Infrastructure backups do not require complicated scheduling or configuration.
+* Data stored on client devices is more valuable than data stored on infrastructure devices.
+* **Many client devices are mobile and won't be in the office all the time.
+
+### Question 15
+
+Some steps of the disaster recovery plan might be time sensitive to ensure there is no data loss or equipment damage. Which element of the disaster recovery plan is designed to address this time sensitivity?
+
+* Preventative measures
+* Disciplinary measures
+* Detection measures
+* Corrective or recovery measures
+
+### Question 16
+
+Which of the following are components of a post-mortem report? Select all that apply.
+
+* **An explanaition of resolution and recovery efforts
+* All log data
+* **A detailed timeline of key events
+* **A brief samary
