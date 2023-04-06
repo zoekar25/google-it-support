@@ -38,3 +38,21 @@ What's the most popular directory services protocol used today?
 * Directory Operational Binding Management Protocol
 
 > LDAP is the most popular and widely used directory access protocol today.
+
+### Question 4
+
+Active Directory is the LDPA implementation for _______.
+
+* Linux
+* Ubuntu
+* MAC
+* **Microsoft
+
+### Question 5
+
+The containers in a Directory Service are referred to as ________.
+
+* user accounts
+* subfolders
+* **organizational units (OUs)
+* organized structure
